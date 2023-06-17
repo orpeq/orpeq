@@ -17,7 +17,7 @@
 
 ### Technologies & Frameworks
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/orpeq)
-[![NextJS](https://img.shields.io/badge/next-black?style=for-the-badge&logo=next)](https://github.com/orpeq)
+[![NextJS](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=nextjs)](https://github.com/orpeq)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/orpeq)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/orpeq)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/orpeq)
