@@ -1,4 +1,5 @@
 <h1 align="center">Hi! 👋></h1>
+### - 🔭 I’m currently working on [My porftolio](https://atomas.io)
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
@@ -33,9 +34,8 @@
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/orpeq)
 
 
-<details>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=orpeq&show_icons=true&locale=en&layout=compact" alt="orpeq" /></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=orpeq&show_icons=true&locale=en&layout=compact" alt="orpeq" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orpeq&" alt="orpeq" /></p>
-</details>
+
 
