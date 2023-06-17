@@ -1,5 +1,4 @@
 <h1 align="center">Hi! 👋></h1>
-### - 🔭 I’m currently working on [My porftolio](https://atomas.io)
 
 <p align="center">
     <b>Welcome to my page!</b><br><br>
