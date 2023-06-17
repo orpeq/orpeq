@@ -21,6 +21,7 @@
 [![Prismic](https://img.shields.io/badge/prismic-black?style=for-the-badge&logo=prismic)](https://github.com/orpeq)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/orpeq)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/orpeq)
+[![SCSS](https://img.shields.io/badge/scss-black?style=for-the-badge&logo=scss)](https://hub.docker.com/u/orpeq)
 
 
 ### OS
